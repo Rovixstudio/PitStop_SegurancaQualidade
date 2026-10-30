@@ -5,7 +5,7 @@
 "use strict";
 
 const STORAGE_KEY = "pitStopMilhao_v1";
-const TIMER_SECONDS = 25;
+const TIMER_SECONDS = 20;
 const AVATARS = ["👷","👷‍♀️","⛑️","🚧","🏗️","🧤"];
 const QUESTIONS = [
   {
